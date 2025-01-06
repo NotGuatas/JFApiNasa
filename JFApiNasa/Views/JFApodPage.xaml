@@ -5,7 +5,7 @@
              Title="JFApodPage">
     <StackLayout>
         <!-- Place new controls here -->
-        <Frame BackgroundColor="DarkSlateGray">
+        <Frame BackgroundColor="Gray">
             <Label Text="Imagen del día"
  HorizontalOptions="Center"
  VerticalOptions="Start"
